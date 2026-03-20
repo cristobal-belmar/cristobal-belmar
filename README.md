@@ -45,6 +45,6 @@
 
 ## 📈 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissssz&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobal-belmar&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crissssz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristobal-belmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
