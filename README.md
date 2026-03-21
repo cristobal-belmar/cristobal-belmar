@@ -1,6 +1,6 @@
 # Cristóbal Belmar Osorio — Ingeniería Estadística (estudiante)
 
-**R | Python | RShiny/Quarto**
+**R | Python | RShiny**
 
 ---
 
@@ -22,7 +22,6 @@
 
 ### Visualización y Despliegue
 ![Shiny](https://img.shields.io/badge/Shiny-000000?logo=r&logoColor=white) 
-![Quarto](https://img.shields.io/badge/Quarto-2D2D2D?logo=quarto&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
 ### Entornos de Desarrollo
